@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guidlines
 
 If you would like to contribute, please follow the [style guide](STYLE.md).
 Issues labeled ["help
